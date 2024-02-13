@@ -3,7 +3,7 @@
 Aplicativo para os cliente de uma Floricultura! Este é um aplicativo desenvolvido em React Native e Tailwind CSS, que permite aos clientes personalizarem seus presentes e realizarem pedidos, os quais são enviados diretamente para o WhatsApp da floricultura.
 
 ![image](https://github.com/carolandreazza/florescence-app/assets/29384128/6aacd0db-d3e1-4ea0-a22a-ef8cd1895027)
-Print do Figma
+<p>Print do Figma</p>
 
 <h2>Funcionalidades</h2>
 
@@ -16,4 +16,6 @@ Print do Figma
 
 <h2>Tecnologias Utilizadas</h2>
 <li> React Native</li>
+<li> Typescript</li>
 <li> Tailwind CSS</li>
+<li> Expo</li>
